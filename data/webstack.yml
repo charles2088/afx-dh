@@ -40,11 +40,6 @@
     - title: UUID生成
       url: https://1024tools.com/uuid/
       description: UUID在线生成
-    - title: 网络剪贴板
-      url: https://netcut.cn/
-      logo: images/logos/xxx.png
-      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
-      description: 在线跨屏剪切文字
     - title: 草料二维码
       qrcode: images/qrcodes/cli.png
       url: https://cli.im/url
