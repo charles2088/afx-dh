@@ -3,6 +3,11 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
+    - title: 花栗鼠个人博客
+      qrcode: images/qrcodes/charles2088.png
+      logo: images/logos/S60.png
+      url: https://charles2088.us.kg/
+      description: 换踹信仰 一起上场
     - title: 环球巴士
       qrcode: 
       logo: images/logos/HQBS.png
