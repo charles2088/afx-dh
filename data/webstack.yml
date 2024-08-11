@@ -25,7 +25,6 @@
       url: https://cli.im/url
       description: 在线二维码生成工具
     - title: 文叔叔文件传输
-      logo: images/logos/favicon.png    
       url: https://www.wenshushu.cn/
       description: 文叔叔在线文件传输工具
 
