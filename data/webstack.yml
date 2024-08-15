@@ -41,6 +41,7 @@
   links: 
     - title: 趣看看短剧
       url: https://v.contentchina.com/
+      logo: images/logos/chrome_I8c6J6wdsx.png
       description: 免费精品短剧
     - title: 好趣网
       url: http://tv.haoqu99.com/
@@ -53,15 +54,18 @@
       description: 高清秒播，午夜电影随便看      
     - title: 追影TV
       url: https://app2.zhuiying.cyou//
+      logo: images/logos/Z11.png
       description: APP有4K自建资源，网页版采集资源
     - title: 可可影视
       url: https://www.kkys3.com:51111/
+      logo: images/logos/logo11.png
       description: 资源丰富全，线路多，播放快
     - title: 追影猫
       url: https://zhuiyingmao5.com/
       description: 影视搜索，免费在线看
     - title: 来看点播
       url: https://lkvod.me/#=klyingshi1.com
+      logo: images/logos/zz12.png
       description: 自建资源，高清播放快
       
 
