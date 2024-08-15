@@ -8,6 +8,10 @@
       logo: images/logos/S60.png
       url: https://charles2088.us.kg/
       description: 换踹信仰 一起上场
+    - title: 花栗鼠
+      url: https://www.19877.cn/
+      logo: images/logos/S60.png
+      description: 绿色软件免费下载         
     - title: 短视频免费下载器
       url: https://www.xtdowner.com/
       description: 抖音/西瓜/头条/B站/快手/公众号/全网热门视频下载      
@@ -23,68 +27,43 @@
     - title: 草料二维码
       qrcode: images/qrcodes/cli.png
       url: https://cli.im/url
-      description: 在线二维码生成工具
+      description: 在线二维码生成
     - title: 文叔叔文件传输
       url: https://www.wenshushu.cn/
-      description: 文叔叔在线文件传输工具
+      description: 在线文件传输工具
     - title: mTab书签
       url: https://go.mtab.cc/
       description: 在线标签页      
+  
 
-
-
-- taxonomy: 社区咨询
+- taxonomy: 免费影视
   icon: fa-regular fa-newspaper
   links: 
-    - title: 雷锋网
-      logo: images/logos/leiphone.png
-      url: https://www.leiphone.com/
-      description: 人工智能和智能硬件领域的互联网科技媒体
-    - title: 36kr
-      logo: images/logos/36kr.png
-      url: https://36kr.com/
-      description: 创业资讯、科技新闻
-    - title: 数英网
-      logo: images/logos/digitaling.png
-      url: https://www.digitaling.com/
-      description: 数字媒体及职业招聘网站
-    - title: 猎云网
-      logo: images/logos/lieyunwang.png
-      url: https://www.lieyunwang.com/
-      description: 互联网创业项目推荐和创业创新资讯
-    - title: 人人都是产品经理
-      logo: images/logos/woshipm.png
-      url: http://www.woshipm.com/
-      description: 产品经理、产品爱好者学习交流平台
-    - title: 互联网早读课
-      logo: images/logos/zaodula.png
-      url: https://www.zaodula.com/
-      description: 互联网行业深度阅读与学习平台
-    - title: 产品壹佰 
-      logo: images/logos/chanpin100.png
-      url: http://www.chanpin100.com/
-      description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-    - title: PMCAFF
-      logo: images/logos/pmcaff.png
-      url: http://www.pmcaff.com/
-      description: 中国第一产品经理人气组织，专注于研究互联网产品
-    - title: 爱运营
-      logo: images/logos/iyunying.png
-      url: http://www.iyunying.org/
-      description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-    - title: 鸟哥笔记
-      logo: images/logos/niaogebiji.png
-      url: http://www.niaogebiji.com/
-      description: 移动互联网第一干货平台
-    - title: 古田路9号
-      logo: images/logos/gtn9.png
-      url: http://www.gtn9.com/
-      description: 国内专业品牌创意平台
-    - title: 优阁网
-      logo: images/logos/uigreat.png
-      url: http://www.uigreat.com/
-      description: UI设计师学习交流社区
-    
+    - title: 趣看看短剧
+      url: https://v.contentchina.com/
+      description: 免费精品短剧
+    - title: 好趣网
+      url: http://tv.haoqu99.com/
+      description: 在线观看各大电视台、CCTV、地方频道、省级&市级电视台
+    - title: 美益达影剧
+      url: https://www.myd04.com/
+      description: 线路多，资源全，有自建资源，发布页：myd01.com
+    - title: 555电影
+      url: https://movz5.com/
+      description: 高清秒播，午夜电影随便看      
+    - title: 追影TV
+      url: https://app2.zhuiying.cyou//
+      description: APP有4K自建资源，网页版采集资源
+    - title: 可可影视
+      url: https://www.kkys3.com:51111/
+      description: 资源丰富全，线路多，播放快
+    - title: 追影猫
+      url: https://zhuiyingmao5.com/
+      description: 影视搜索，免费在线看
+    - title: 来看点播
+      url: https://lkvod.me/#=klyingshi1.com
+      description: 自建资源，高清播放快
+      
 
 - taxonomy: 灵感采集
   icon: fa-regular fa-lightbulb
