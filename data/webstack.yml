@@ -80,7 +80,43 @@
       logo: images/logos/favicon.png
       description: 资源丰富播放快
       
-
+- taxonomy: 开发社区
+  icon: fa-regular fa-lightbulb
+  list: 
+    - term: VPS服务器
+      links:
+        - title: 阿里云
+          url: https://www.aliyun.com/
+          description: 阿里云，阿里巴巴集团旗下云计算品牌，全球卓越的云计算技术和服务提供商。
+        - title: 腾讯云
+          url: https://cloud.tencent.com/
+          description: 腾讯云服务器，腾讯云国内第二大云服务器厂商，背靠腾讯，科研实力强大，安全稳定，值得信任          
+        - title: 华为云
+          url: https://www.huaweicloud.com/
+          description: 华为云服务器—国内第三大云服务器厂商，背靠华为，实力强劲
+        - title: UCloud优刻得
+          url: https://www.ucloud.cn/
+          description: Ucloud云服务器(科创版上市公司)—主打性价比高的香港和海外云服务器(免备案)
+        - title: 金山云
+          url: https://www.ksyun.com/
+          description: 金山云服务器，背靠小米集团，技术强劲，安稳可靠。
+        - title: 硅云
+          url: https://www.vpsor.cn/https://www.west.cn/
+          description: 硅云服务器-—主打高性价比香港和海外服务器
+        - title: 西部数码
+          url: https://www.west.cn/
+          description: 西部数码是排名前3的虚拟主机服务商，提供多种虚拟主机、网站空间、虚拟空间、网页空间、网络空间，主机稳定好用、速度快、价格便宜，是购买虚拟主机的优选网站。
+        - title: 老薛主机
+          url: https://www.laoxuehost.com/
+          description: 老薛主机官网 | 香港、日本、美国免备案主机空间——专业的海外空间解决方案提供商
+        - title: 莱卡云
+          url: https://www.lcayun.com/
+          description: 莱卡云全球基础设施，莱卡云布局全球多个地理区域，提供高速稳定的全球云联接网络、贴近客户的本地化服务
+        - title: 六六云
+          url: https://666clouds.com/
+          description: 六六云提供多地区原生IP VPS服务的云服务器提供商，成立于2020年，特别适合需要海外直连和高性能VPS的用户。
+         
+          
 - taxonomy: 办公神器
   icon: fa-regular fa-lightbulb
   list: 
@@ -95,7 +131,10 @@
         - title: 草料二维码
           qrcode: images/qrcodes/cli.png
           url: https://cli.im/url
-          description: 在线二维码生成       
+          description: 在线二维码生成
+        - title: MewXAI星月熊
+          url: https://qr.mewx.art/
+          description: 艺术二维码和艺术字
       
     - term: 界面灵感
       links:
