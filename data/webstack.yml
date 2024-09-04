@@ -115,7 +115,26 @@
         - title: 六六云
           url: https://666clouds.com/
           description: 六六云提供多地区原生IP VPS服务的云服务器提供商，成立于2020年，特别适合需要海外直连和高性能VPS的用户。
-         
+    - term: 开发必备
+      links:
+        - title: github
+          url: https://github.com/
+          description: 在线项目托管使用Git。包括源代码浏览器、内联编辑、wiki和票务。免费的公共开源代码。商业闭源…
+        - title: gitee
+          url: https://gitee.com/
+          description: 让每一行代码都有改变世界的力量      
+        - title: replit
+          url: https://replit.com/
+          description: Replit是一个基于人工智能的软件开发和部署平台，用于快速构建、共享和发布软件。
+        - title: 站长工具
+          url: https://tool.chinaz.com/
+          description: 站长工具是站长的必备工具
+        - title: itdog         
+          url: https://www.itdog.cn/
+          description: 在线ping,网站测速
+        - title: UUID生成
+          url: https://1024tools.com/uuid/
+          description: UUID在线生成          
           
 - taxonomy: 办公神器
   icon: fa-regular fa-lightbulb
