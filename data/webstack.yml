@@ -133,7 +133,10 @@
           description: 在线ping,网站测速
         - title: UUID生成
           url: https://1024tools.com/uuid/
-          description: UUID在线生成          
+          description: UUID在线生成 
+        - title: cloudflare
+          url: https://www.cloudflare-cn.com/
+          description: cloudflare 以“积极进取的产品战略来支持企业安全需求。” 适用于技术部门领导者的资源 利用精选的见解和解决方案加速您的 it 和安全战略 对于ciso增强网络安全韧性,以控制风险并维持客户信任。
           
 - taxonomy: 办公神器
   icon: fa-regular fa-lightbulb
