@@ -160,25 +160,49 @@
           url: https://qr.mewx.art/
           description: 艺术二维码和艺术字
       
-    - term: 界面灵感
+    - term: 网盘存储
       links:
-        - title: Pttrns
-          logo: images/logos/Pttrns.png
-          url: https://www.pttrns.com/
-          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
-        - title: Collect UI
-          logo: images/logos/CollectUI.png
-          url: http://collectui.com/
-          description: Daily inspiration collected from daily ui archive and beyond.
-        - title: UI uigreat
-          logo: images/logos/uiuigreat.png
-          url: http://ui.uigreat.com/
-          description: APP界面截图参考
-        - title: Android Niceties
-          logo: images/logos/AndroidNiceties.png
-          url: https://androidniceties.tumblr.com/
-          description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
-      
+        - title: 百度网盘
+          url: https://pan.baidu.com/
+          description: 百度网盘是一款国民级产品,已连续9年为超过7亿用户提供稳定、安全的个人云存储服务,已实现电脑、手机、电视等多种终端场景的覆盖和互联,并支持多类型文件的备份、分享
+        - title: 阿里云盘
+          url: https://www.alipan.com/
+          description: 阿里云盘是一款速度快、不打扰、够安全、易于分享的网盘，你可以在这里存储、管理和探索内容，尽情打造丰富的数字世界。
+        - title: 夸克网盘
+          url: https://www.quark.cn/
+          description: 提供6T超大存储空间,轻松存储海量影视、文档资源,更有下载不限速的特权,随时随地畅享高速下载,网页资源检测功能,轻松找到所需资源,一键提取存储,方便快捷
+        - title: 天翼云盘
+          url: https://cloud.189.cn/
+          description: 是中国电信推出的云存储服务,为用户提供跨平台的文件存储、备份、同步及分享服务,是国内领先的免费网盘,安全、可靠、稳定、快速。天翼云盘为用户守护数据资产。
+        - title: 123云盘
+          url: https://www.123pan.com/
+          description: 免费用户无套路，忙时闲时无差别，网速有多快传输就有多快，浏览器单线程下载速度高达20MB/s，客户端多线程下载速度高达100MB/s
+        - title: 腾讯微云
+          url: https://www.weiyun.com/
+          description: 稳定可靠的储存任何文件,多端查看、下载分享文件、便捷的文件管理、多种格式文件在线预览
+        - title: 中国移动云盘
+          url: https://yun.139.com/w/#/
+          description: 中国移动云盘(原名和彩云)是中国移动面向所有用户推出的一款安全、智能、不限速、移动用户免流量的产品。产品涵盖存储备份、多端同步、在线管理、群组分享四大核心能力。
+        - title: 蓝奏云
+          url: https://up.woozooo.com/
+          description: 在蓝奏，所有云存储、文件下载都是秒级响应。采用网众公司云计算+存储分发技术。任何网络，享受到最快的下载速度。
+        - title: 奶牛快传
+          url: https://cowtransfer.com/
+          description: 奶牛快传 (CowTransfer) 无需注册即可传输文件，上传下载不限速。传视频、传音频、传图片、跨国传、传大文件。10GB 免费云盘、会员 3TB 超大云盘。...
+        - title: UC网盘·快传助手
+          url: https://fast.uc.cn/
+          description: UC网盘 是一款用于大文件传输与分享并且上传下载不限速的在线大文件分享软件,软件提供对临时文件,视频,文档,文件,音乐,word,图片,pdf等文件的快传,储存,压缩,加密,编辑,分享,...
+        - title: UC网盘
+          url: https://drive.uc.cn/
+          description: UC网盘 是UC浏览器推出的一款云服务产品,功能包括云存储、智能云同步、极速上传下载、文件分享、共享,通过UC网盘可随时随地使用或管理照片、文档、手机资料;支持PC、iOS。Android。
+        - title: 迅雷云盘
+          url: https://pan.xunlei.com/
+          description: 迅雷云盘（The thunder SkyDrive）是迅雷推出的新一代网络硬盘，集合存储、点播、分享、下载、文件预览等功能，为用户提供一站式资源服务。
+        - title: 城通网盘
+          url: https://www.ctfile.com/
+          description: 让您即刻拥有直连分享、webdav、在线播放音视频，激励计划等众多功能，打包您的一切云盘需求。
+
+          
     - term: 网页灵感
       links:
         - title: Awwwards
