@@ -82,6 +82,13 @@
       logo: images/logos/favicon.png
       description: 资源丰富播放快
       
+- taxonomy: AI工具
+  icon: fa-regular fa-newspaper
+  links: 
+    - title: Vega AI
+      url: https://applet.rightbrainai.cn/
+      description: vega ai创作平台 是右脑科技公司发布的一款革新性的在线AI艺术创作工具 
+      
 - taxonomy: 开发社区
   icon: fa-regular fa-lightbulb
   list: 
