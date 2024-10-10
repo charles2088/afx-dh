@@ -85,6 +85,15 @@
     - title: Vega AI
       url: https://applet.rightbrainai.cn/
       description: vega ai创作平台 是右脑科技公司发布的一款革新性的在线AI艺术创作工具 
+    - title: 神采PromeAI
+      url: https://www.ishencai.com/
+      description: 彻底改变您的工作方式，让AI为您提高效率，释放您的创造潜能
+    - title: WeShop唯象
+      url: https://www.weshop.com/
+      description: 专注电商需求的AI商拍工具
+    - title: 海艺AI
+      url: https://www.haiyi.art/
+      description: 海艺AI积极沟通各行业的美术工作者,从游戏美术到电商领域、广告设计等,可以帮助他们优化工作流,实现指数级提升工作效率。借助海艺AI强大的AI技术,各行业美术工作者能够轻松应...
       
 - taxonomy: 开发社区
   icon: fa-regular fa-lightbulb
