@@ -33,11 +33,7 @@
       description: 轻松传，手机、电脑、平板... 轻松互传    
     - title: mTab书签
       url: https://go.mtab.cc/
-      description: 在线标签页
-    - title: 路过图床
-      url: https://imgse.com/
-      description: 高速稳定的图片上传和外链服务 全球CDN加速, 支持外链, 原图保存, 最大单张支持10 MB
-      
+      description: 在线标签页      
   
 - taxonomy: 免费影视
   icon: fa-regular fa-newspaper
