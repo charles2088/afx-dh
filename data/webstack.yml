@@ -187,28 +187,7 @@
           url: https://qr.mewx.art/
           description: 艺术二维码和艺术字
           
-    - term: 免费图床
-      links:
-        - title: 云朵图床
-          url: https://www.pngcdn.cn/
-          description: 免费提供高速多IP节点安全图片托管服务，可以快速将图片转换为URL 链接，免费的公共图床以及图片存储服务。为您提供简单、稳定、可信赖的图片上传于外链分享服务,提供原图保护以及图片上传，图片外链、代码、url链接等访问模式，可一键获取相关图床图片链接,为广大站长提供优质图床服务
-        - title: ImgBB
-          url: https://imgbb.com/
-          description: Free image hosting and sharing service, upload pictures, photo host. Offers integration solutions for uploading images to forums.
-        - title: sm.ms
-          url: https://sm.ms/
-          description: https://sm.ms/
-        - title: 聚合图床
-          url: https://www.superbed.cn/
-          description: 聚合图床 - 高速稳定的图片上传和外链服务
-        - title: 路过图床
-          url: https://imgse.com/
-          description: 高速稳定的图片上传和外链服务 全球CDN加速, 支持外链, 原图保存, 最大单张支持10 MB    
-        - title: CDN加速图床
-          url: https://cdnjson.com/
-          description:  支持多图上传,粘贴上传,URL上传,图片压缩,图片鉴黄等多种实用功能,提供高速稳定的图片上传和外链服务与全球CDN加速服务     
-
-          
+        
       
     - term: 网盘存储
       links:
