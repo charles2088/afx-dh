@@ -205,7 +205,9 @@
         - title: CDN加速图床
           url: https://cdnjson.com/
           description:  支持多图上传,粘贴上传,URL上传,图片压缩,图片鉴黄等多种实用功能,提供高速稳定的图片上传和外链服务与全球CDN加速服务               
-        
+        - title: postimages
+          url: https://postimages.org/
+          description:  获取用于Facebook，Twitter，留言板和博客上的永久链接
       
     - term: 网盘存储
       links:
