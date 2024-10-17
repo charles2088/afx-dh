@@ -185,14 +185,14 @@
           description: 在线二维码生成
         - title: MewXAI星月熊
           url: https://qr.mewx.art/
-          description: 艺术二维码和艺术字
+          description: 艺术二维码和艺术字          
     - term: 免费图床
       links:
         - title: 云朵图床
           url: https://www.pngcdn.cn/
           description: 免费提供高速多IP节点安全图片托管服务，可以快速将图片转换为URL 链接
           url: https://imgbb.com/
-          description: Free image hosting and sharing service, upload pictures, photo host. Offers integration solutions for uploading images to forums.
+          description: Free image hosting and sharing service, upload pictures, photo host.
         - title: sm.ms
           url: https://sm.ms/
           description: https://sm.ms/
